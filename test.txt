@@ -1,14 +1,5 @@
 inital git
 
-+++++++++++++
-add unarrange content 1
-fdafjelajvkflajva
-lfedjawkfljekawflaew
-fjdkalfjekawfjewa
-feawfeaw
-
-+++++++++++++++
-
 --------------
 jill add css
 css
@@ -23,4 +14,3 @@ css
 css
 
 -----------------
-

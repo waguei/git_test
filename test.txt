@@ -16,14 +16,6 @@ csscss
 
 -----------------
 
-++++++++++++++++
-hurry push 2
-feafelwaj
-frakjfelaw
-gfjklfjelaw
-+++++++++++++++
-
-
 --------------
 jill add css2
 css
@@ -31,3 +23,4 @@ css
 css
 
 -----------------
+
